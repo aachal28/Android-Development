@@ -1,8 +1,7 @@
-🔥Android-Development-Notes 🐍
-
+🔥Android-Development-Notes 
 
 This repository contains all the notes, assignments and resources of Android Development on YouTube Channel.
 
 It's completely free.😊
 
-![image](https://user-images.githubusercontent.com/77334130/189368559-1af01c5d-a0a0-4cba-b626-734e3f2d2038.png)
+![Gae](https://user-images.githubusercontent.com/77334130/189370875-7915b728-d8ef-44f6-8b76-bea82fd16b24.png)
